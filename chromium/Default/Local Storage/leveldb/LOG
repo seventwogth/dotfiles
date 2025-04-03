@@ -1,0 +1,15 @@
+2025/03/31-14:02:32.058 4 Reusing MANIFEST /home/seventwocore/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/31-14:02:32.061 4 Recovering log #19
+2025/03/31-14:02:32.062 4 Reusing old log /home/seventwocore/.config/chromium/Default/Local Storage/leveldb/000019.log 
+2025/03/31-14:04:38.254 5 Level-0 table #23: started
+2025/03/31-14:04:38.257 5 Level-0 table #23: 22572 bytes OK
+2025/03/31-14:04:38.259 5 Delete type=0 #19
+2025/03/31-14:04:38.259 5 Compacting 4@0 + 1@1 files
+2025/03/31-14:04:38.267 5 Generated table #24@0: 45 keys, 233730 bytes
+2025/03/31-14:04:38.267 5 Compacted 4@0 + 1@1 files => 233730 bytes
+2025/03/31-14:04:38.269 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/31-14:04:38.269 5 Delete type=2 #17
+2025/03/31-14:04:38.270 5 Delete type=2 #20
+2025/03/31-14:04:38.270 5 Delete type=2 #15
+2025/03/31-14:04:38.270 5 Delete type=2 #13
+2025/03/31-14:04:38.270 5 Delete type=2 #23
